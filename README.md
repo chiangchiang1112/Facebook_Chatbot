@@ -1,7 +1,7 @@
 # Facebook ChatBot
 
 ## Finite State Machine
-![fsm](.fsm.png)
+![fsm](fsm.png)
 
 ## 功能概述
 這是一個結合歷史以及聊天機器人的程式，藉由短時間的對話與抉擇，你將回到民國戒嚴時期，戰戰兢兢下的每個決定都將影響你的未來，你能否成功的活過這一天呢...
